@@ -1,5 +1,5 @@
 # Hi, my name is **Artem**!
-## I'm a beginner *Frontend developer*
+## I'm a *Frontend developer*
 
 Languages and Technologies<br><br>
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
